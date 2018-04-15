@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/libs/mail.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/messageMail/libs/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

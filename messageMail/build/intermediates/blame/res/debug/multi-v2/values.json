@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "9,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "438,729",
+                        "endLines": "15,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "724,884"
+                    }
+                },
+                {
+                    "source": "/home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "7,6,4,3,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "281,215,108,58,162",
+                        "endColumns": "47,65,52,48,52",
+                        "endOffsets": "324,276,156,102,210"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "169,217,283,336,385",
+                        "endColumns": "47,65,52,48,52",
+                        "endOffsets": "212,278,331,380,433"
+                    }
+                }
+            ]
+        }
+    ]
+}

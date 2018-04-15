@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+		INJECTED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:10:2-80
+	android:name
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:10:19-61
+application
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:11:1-26:19
+MERGED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-24:19
+MERGED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-24:19
+	android:label
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-40
+activity#com.bvw.messagemail.MainActivity
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:20:27-74
+service#com.bvw.messagemail.MailService
+ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:24:9-25:19
+	android:name
+		ADDED from /home/bruce/SW/Android/StudioProjects/MessageMail/messageMail/src/main/AndroidManifest.xml:24:18-44
+activity#com.bvw.android_library.Message_Listview
+ADDED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from [:android_Library] /home/bruce/SW/Android/StudioProjects/MessageMail/android_Library/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-68
